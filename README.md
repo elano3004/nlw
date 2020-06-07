@@ -2,7 +2,7 @@
 Semana Next Level Week - Rocketseat
 
 <h1 align="center">
-    <img src="/assets/logo.svg">
+    <img src="public/assets/logo.svg">
 </h1>
 
 ## 🖼 Screenshot
