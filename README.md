@@ -50,7 +50,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ git clone https://github.com/elano3004/nlw
 
     # Entrar no diretório
-    $ cd ecoleta
+    $ cd nlw
 
     # Instale as extensões
     $ Instalar o live server no vscode
