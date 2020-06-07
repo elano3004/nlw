@@ -51,12 +51,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
     # Entrar no diretório
     $ cd nlw
-
-    # Instale as extensões
-    $ Instalar o live server no vscode
+    
+    # Instale as dependências
+    $ npm install
     
     # Iniciar o projeto
-    $ Abrir o index.html com o live server
+    $ npm start
 ```
 
 Feito com 💜 by <a href="https://www.linkedin.com/in/elano-olavo-saraiva-evaristo-259b8281/" target="_blank">Elano Evaristo</a>
